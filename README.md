@@ -1,5 +1,4 @@
-The workflow of **DepForge** for automated class-level customization of Java third-party libraries
-
+DepForge provides a workflow for automated class-level customization of Java third-party libraries
 ---
 
 ## Download
